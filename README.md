@@ -29,10 +29,12 @@ This is a simple **Tic-Tac-Toe game** built using **HTML, CSS, and JavaScript**.
 
 2. Open index.html in a web browser to start playing.
 
-**License**
+##License
+
 This project is open-source and free to use.
 
-**Author**
+##Author
+
 Developed by Ponna Jahnavi Sushma Priya
 
 Would you like to add any extra features or enhancements? 🚀
